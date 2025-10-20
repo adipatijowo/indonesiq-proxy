@@ -1,0 +1,7 @@
+name = "proxy-indonesia"
+compatibility_date = "2024-01-15"
+main = "worker.js"
+
+[vars]
+PROXY_LIST_URL = "https://raw.githubusercontent.com/adipatijowo/indonesiq-proxy/refs/heads/main/proxy-list.json"
+SUB_PAGE_URL = ""
