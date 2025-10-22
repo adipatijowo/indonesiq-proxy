@@ -5,3 +5,8 @@ main = "worker.js"
 [vars]
 PROXY_LIST_URL = "https://raw.githubusercontent.com/adipatijowo/indonesiq-proxy/refs/heads/main/proxy-list.json"
 SUB_PAGE_URL = ""
+
+# ===== ADD THIS =====
+[[kv_namespaces]]
+binding = "USER_STORAGE"
+id = "14d389c7417544f6abc7ac490b723e25"
